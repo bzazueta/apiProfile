@@ -1,0 +1,2 @@
+[30-May-2023 18:07:55 America/Mexico_City] PHP Parse error:  syntax error, unexpected single-quoted string "entrofghfh", expecting ":" in /home1/monitode/public_html/apiTandas/v1/conexion_.php on line 19
+[30-May-2023 18:18:11 America/Mexico_City] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'id9521315_benja420'@'localhost' (using password: YES) in /home1/monitode/public_html/apiTandas/v1/conexion_.php on line 14

@@ -1,0 +1,19 @@
+{
+    "name": "user/api-tanda",
+    "description": "api para un sistema de tandas",
+    "type": "proyect",
+    "license": "free",
+    "authors": [
+        {
+            "name": "benjamin zazueta",
+            "email": "bzazuetar@gmail.com"
+        }
+    ],
+    "require": {
+        "firebase/php-jwt": "^5.2",
+        "openpay/sdk": "^2.1",
+        "conekta/conekta-php": "4.3.0",
+        "vlucas/phpdotenv": "^5.3",
+        "google/auth": "^1.20"
+    }
+}
